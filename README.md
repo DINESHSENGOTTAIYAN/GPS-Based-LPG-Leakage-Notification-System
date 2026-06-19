@@ -1,5 +1,3 @@
-# GPS-Based-LPG-Leakage-Notification-System
-
 
 # GPS Based LPG Leakage Notification System
 
